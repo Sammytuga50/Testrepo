@@ -1,3 +1,3 @@
 # Testrepo
-## Thia ia my first Repo
+## This is my first Repo
 Check me out, I am repoing!
